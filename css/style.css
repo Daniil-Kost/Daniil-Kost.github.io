@@ -206,6 +206,7 @@ header .intro-text {
 #about {
 	padding: 120px 0 80px 0;
 	background: #f6f6f6;
+	width: 100%;
 }
 #about h3 {
 	font-size: 22px;
@@ -241,6 +242,7 @@ header .intro-text {
 #services {
 	padding: 120px 0;
 	background: #6aaf08;
+	width: 100%;
 }
 #services .service-media {
 	margin: 10px;
@@ -275,6 +277,7 @@ header .intro-text {
 #portfolio {
 	padding: 100px 0;
 	background: #f6f6f6;
+	width: 100%;
 }
 .categories {
 	text-align: center;
@@ -381,6 +384,7 @@ ol.type li a:hover {
 #testimonials {
 	background: #444 url(../img/testimonials-bg.jpg) center center no-repeat fixed;
 	background-size: cover;
+	width: 100%;
 }
 #testimonials .overlay {
 	padding: 120px 0;
@@ -424,6 +428,7 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0;
 	background: #F6F6F6;
+	width: 100%;
 }
 #contact .section-title p {
 	color: #777;
@@ -494,6 +499,7 @@ color: #777;
 #footer {
 	background: #333;
 	padding: 30px 0 20px;
+	width: 100%;
 }
 #footer h3 {
 	color: #1e7a46;
