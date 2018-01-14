@@ -2,7 +2,7 @@ body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #666;
+	color: #665;
 	font-weight: 400;
 	width: 100% !important;
 	height: 100% !important;
@@ -124,7 +124,7 @@ hr {
 }
 .section-title p {
 	font-size: 18px;
-	color: #666;
+	color: #665;
 }
 .btn-custom {
 	text-transform: uppercase;
